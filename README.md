@@ -1,0 +1,3 @@
+- 👋 Hello, I'm Sollux
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: Sollux#5496
